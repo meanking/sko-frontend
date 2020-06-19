@@ -1,0 +1,16 @@
+node_modules
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+android/app/build/
+android/.gradle/
+android/.idea/
+android/*.iml
+android/app/*.iml
+android/local.properties
+ios/build/
+ios/Pods
+.env
